@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
+body{
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(172, 172, 172);
+    font-weight: 10px;
+    text-align: center;
+    background-image: url(./bg2.jpg);
+}
+
+#board{
+    background-image: url(./flappybirdbg2.png);
+}
